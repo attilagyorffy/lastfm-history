@@ -1,0 +1,46 @@
+# Environment variables (contains API keys)
+.env
+
+# Exported data files (contains personal listening history)
+*.json
+lastfm_history.json
+
+# Ruby
+*.gem
+*.rbc
+.bundle
+.config
+coverage
+InstalledFiles
+lib/bundler/man
+pkg
+rdoc
+spec/reports
+test/tmp
+test/version_tmp
+tmp
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+.nfs*
+
+# Editor backup files
+*~
+*.swp
+*.swo
+*.bak
+.vscode/
+.idea/
+
+# Logs
+*.log
